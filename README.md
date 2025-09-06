@@ -40,6 +40,14 @@ Currently building projects that combine *Data Analysis* with early steps into *
 
 ---
 
+## 📸 Portfolio Samples
+Here’s an example of my dashboard work:  
+
+![Dashboard](./Dashboard.png)  
+
+---
+
 ## 📫 Contact Me
 - 📧 [Email](mailto:fawzyshams009@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/fawzy-shams-567a57357)
+- 💼 [LinkedIn](https://www.linkedin.com/in/fawzy-shams-567a57357)  
+- 📱 Phone/WhatsApp: ‪[+20 1507234838‬](tel:‪+201507234838‬)
