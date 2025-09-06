@@ -43,7 +43,7 @@ Currently building projects that combine *Data Analysis* with early steps into *
 ## 📸 Portfolio Samples
 Here’s an example of my dashboard work:  
 
-![Dashboard](https://github.com/fawzyshams/excel-data-analysis/blob/main/Dashboard.png?raw=true)
+![Dashboard](dashboard.png)
 
 ---
 
