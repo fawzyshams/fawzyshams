@@ -40,10 +40,13 @@ Currently building projects that combine *Data Analysis* with early steps into *
 
 ---
 
-## 📸 Dashboard Sample
+## 📸 Dashboard Samples
 Here’s an example of my dashboard work:  
 
 ![Dashboard](https://raw.githubusercontent.com/fawzyshams/Excel-data-analysis/main/dashboard.png)
+![Sales Dashboard](https://raw.githubusercontent.com/fawzyshams/sales-marketing-data-analysis/main/sales%20%26%20marketing%20data%20analysis/sales%20dashboard.png)
+![E-commerce Analysis](https://raw.githubusercontent.com/fawzyshams/e-commerce-data-analysis/main/e%20commerce%20data%20analysis/E%20commerce.png)
+
 
 ---
 
