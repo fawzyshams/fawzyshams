@@ -36,7 +36,13 @@ Currently building projects that combine *Data Analysis* with early steps into *
   Built dashboards and reports to visualize KPIs and business trends.  
 
 - [Python Data Analysis](https://github.com/fawzyshams/Python-data-analysis)  
-  Performed data cleaning, EDA, and visualization to extract insights.  
+  Performed data cleaning, EDA, and visualization to extract insights.
+ 
+- [E-commerce Data Analysis](https://github.com/fawzyshams/e-commerce-data-analysis)  
+  Analyzed online sales performance, customer behavior, and revenue growth using Python and Power BI.  
+
+- [Sales & Marketing Data Analysis](https://github.com/fawzyshams/sales-marketing-data-analysis)  
+  Created interactive dashboards to monitor sales KPIs, marketing performance, and campaign efficiency.
 
 ---
 
