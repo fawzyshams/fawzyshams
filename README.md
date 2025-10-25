@@ -1,10 +1,13 @@
 <h1 align="left">
   Hi there 👋, I'm Fawzy Shams
-  <a href="https://raw.githubusercontent.com/fawzyshams/fawzyshams/main/Fawzy_Mohamed_CV.pdf" target="_blank" style="float:right; text-decoration:none;">
-    <img src="https://img.icons8.com/fluency/48/resume.png" alt="CV Icon" width="30" style="vertical-align:middle;"/>
-    <span style="font-size:16px; font-weight:500; vertical-align:middle;">CV</span>
-  </a>
+  <span style="margin-left:60px;">
+    <a href="https://raw.githubusercontent.com/fawzyshams/fawzyshams/main/Fawzy_Mohamed_CV.pdf" target="_blank" style="text-decoration:none;">
+      <span style="font-size:16px; font-weight:600; vertical-align:middle;">CV</span>
+      <img src="https://img.icons8.com/fluency/48/resume.png" alt="CV Icon" width="28" style="vertical-align:middle; margin-left:4px;"/>
+    </a>
+  </span>
 </h1>
+
 
 
 *Freelance Data Analyst | Aspiring Data Scientist*  
