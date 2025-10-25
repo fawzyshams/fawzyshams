@@ -4,6 +4,11 @@
 
 I help businesses make *data-driven decisions* by cleaning, analyzing, and visualizing data.  
 Currently building projects that combine *Data Analysis* with early steps into *Data Science*.  
+<p align="center">
+  <a href="https://raw.githubusercontent.com/fawzyshams/fawzyshams/main/Fawzy_Mohamed_CV.pdf" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/resume.png" alt="CV Icon" width="80"/>
+  </a>
+</p>
 
 ---
 
